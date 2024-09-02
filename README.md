@@ -1,6 +1,6 @@
-# yoga
+# Home yoga
 
-A new Flutter project.
+HOME YOGA: A Flutter app guiding users through yoga routines with step-by-step instructions, timer & images. Minimalistic UI, drawer navigation & peaceful experience
 
 ## Getting Started
 
